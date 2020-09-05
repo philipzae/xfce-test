@@ -15,7 +15,7 @@ The main usecases are:
 The automatically created videos are on [my youtube channel](https://www.youtube.com/user/schuellerf) for now.
 
 This containers are based on ubuntu with a build from git sources of all core Xfce components + some apps for testing.
-Other distributions and versions will be supported at a later stage!
+Other distributions and versions will be supported at a later stage! For user testing instructions, including installation, running and uninstallation, check out the [Xfce Wiki](https://wiki.xfce.org/testing/xfce-test).
 
 # Travis
 
